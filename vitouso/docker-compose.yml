@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  vitoso:
+    image: openlink/virtuoso-closedsource-8
+    ports:
+      - 1111:1111
+      - 8890:8890
+    volumes:
+      - pwd:/database
+    environment:
+      - DBA_PASSWORD=dba
+volumes:
+  pwd: {}

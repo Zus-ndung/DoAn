@@ -1,0 +1,14 @@
+Tên: Cộng hòa Ba Lan
+Quốc ca: Mazurek Dąbrowskiego(Ba Lan bất diệt)
+Thủ đô: Warsaw
+Ngôn ngữ chính thức: Tiếng Ba Lan
+Tổng thống: Andrzej Duda
+Thủ tướng: Mateusz Morawiecki
+Lập pháp: Nghị viện
+Diện tích: 312.696
+Dân số: 2020 38.268.000
+Đơn vị tiền tệ: Złoty Ba Lan (PLN)
+Giao thông bên: phải
+Mã điện thoại: +48
+Mã ISO 3166: PL
+Tên miền Internet:.pl

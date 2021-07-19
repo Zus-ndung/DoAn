@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  scrapy:
+    build: "."
+    container_name: scrapy_python
+    volumes:
+      - ./src:/usr/src/app
